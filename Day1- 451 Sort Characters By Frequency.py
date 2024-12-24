@@ -50,3 +50,8 @@ class Solution:
         # So the final result is "eetr".
 
         return result  # Return the sorted string
+
+solution = Solution()
+print(solution.frequencySort("tree"))  # Output: "eert" or "eetr" (depending on sort stability)
+print(solution.frequencySort("cccaaa"))  # Output: "aaaccc" or "cccaaa"
+print(solution.frequencySort("Aabb"))  # Output: "bbaA" or "bbAa"
