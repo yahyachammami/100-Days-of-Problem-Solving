@@ -51,7 +51,8 @@ class Solution:
 
         return result  # Return the sorted string
 
-solution = Solution()
-print(solution.frequencySort("tree"))  # Output: "eert" or "eetr" (depending on sort stability)
-print(solution.frequencySort("cccaaa"))  # Output: "aaaccc" or "cccaaa"
-print(solution.frequencySort("Aabb"))  # Output: "bbaA" or "bbAa"
+
+sol = Solution()
+print(sol.frequencySort("tree"))  # Output: "eert" or "eetr" (depending on sort stability)
+print(sol.frequencySort("cccaaa"))  # Output: "aaaccc" or "cccaaa"
+print(sol.frequencySort("Aabb"))  # Output: "bbaA" or "bbAa"
