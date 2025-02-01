@@ -4,6 +4,9 @@ This repository contains a collection of resources to help you improve your prob
 
 Feel free to contribute by adding any valuable resources you come across.
 
+**This is a YouTube video from Neetcode. I recommend starting with it.**
+[Neetcode's YouTube Channel](https://www.youtube.com/watch?v=0K_eZGS5NsU)
+
 ## Contests
 
 - **[TCPC 2023 Contest Problems](./1-TCPC-2023.pdf)**  
