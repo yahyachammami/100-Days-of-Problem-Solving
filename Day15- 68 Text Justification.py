@@ -36,7 +36,7 @@ class Solution(object):
             # Add the current word to the line
             line.append(word)
             line_length += len(word)
-            i += 1
+            i = i+ 1
 
         # Process the last line (left justified)
         last_line = " ".join(line)
